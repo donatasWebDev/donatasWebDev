@@ -32,6 +32,11 @@ Passionate about building performant, addictive web apps with real-time features
 
 - **Kahoot Clone** – Team quiz game with live rooms and scoring
 
+### 📬 Get in Touch
+- **Email**: donatas.tumenas.dev@gmail.com (junior roles, freelance, project chats—hit me up)
+- **LinkedIn**: [donatas-tumenas-17b705306](https://www.linkedin.com/in/donatas-tumenas-17b705306/)
+- **Portfolio**: [portfolio-donatasdev.vercel.app](https://portfolio-donatasdev.vercel.app/)
+- **GitHub**: [@donatasWebDev](https://github.com/donatasWebDev)
 
 
 Thanks for stopping by! Let's connect and build something dope 🚀

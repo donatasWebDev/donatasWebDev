@@ -32,12 +32,6 @@ Passionate about building performant, addictive web apps with real-time features
 
 - **Kahoot Clone** – Team quiz game with live rooms and scoring
 
-### 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=donatasWebDev&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=donatasWebDev&layout=compact&theme=radical&hide_border=true)
-
 ### 👀 Profile Views
 [![Visitors](https://visitor-badge.laobi.works/badge?page_id=donatasWebDev.donatasWebDev)](https://visitor-badge.laobi.works/)
 

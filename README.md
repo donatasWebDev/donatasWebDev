@@ -1,6 +1,6 @@
 # Hi there, I'm Donatas Tumėnas 👋
 
-<-- ![banner](https://media.discordapp.net/attachments/661884689820286978/1457038696565182657/1767453679026.jpg?ex=695a8c87&is=69593b07&hm=a9d376592fdd7242eb05a4ef28b1a57a9c906ca7666f67e5e82479cdbfb34855&=&format=webp) -->
+<!-- ![banner](https://media.discordapp.net/attachments/661884689820286978/1457038696565182657/1767453679026.jpg?ex=695a8c87&is=69593b07&hm=a9d376592fdd7242eb05a4ef28b1a57a9c906ca7666f67e5e82479cdbfb34855&=&format=webp) -->
 
 **Junior Full-Stack Developer** | Real-Time Systems Enthusiast | EuroSkills 2025 Lithuania Rep (Web Technologies)
 

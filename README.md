@@ -32,7 +32,6 @@ Passionate about building performant, addictive web apps with real-time features
 
 - **Kahoot Clone** – Team quiz game with live rooms and scoring
 
-### 👀 Profile Views
-[![Visitors](https://visitor-badge.laobi.works/badge?page_id=donatasWebDev.donatasWebDev)](https://visitor-badge.laobi.works/)
+
 
 Thanks for stopping by! Let's connect and build something dope 🚀
